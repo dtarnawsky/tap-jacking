@@ -1,0 +1,7 @@
+{
+  "name": "cs-tap-jacking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

@@ -13,7 +13,7 @@ export class HomePage {
   constructor() { }
 
   async enable() {
-    await TapJacking.setFilterTouchesWhenObscured({ value: true });
+    await TapJacking.preventOverlays();
     alert('Tap Jacking is now mitigated.')
   }
 }

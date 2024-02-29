@@ -3,7 +3,7 @@ PODS:
     - CapacitorCordova
   - CapacitorApp (5.0.7):
     - Capacitor
-  - CapacitorCommunityTapJacking (5.0.0):
+  - CapacitorCommunityTapJacking (5.1.0):
     - Capacitor
   - CapacitorCordova (5.7.0)
   - CapacitorHaptics (5.0.7):
@@ -41,7 +41,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Capacitor: fc155ee2ee45a2093d716f13cf5aa5a865e2d85a
   CapacitorApp: 17fecd0e6cb23feafac7eb0939417389038b0979
-  CapacitorCommunityTapJacking: c4d3afe148406393fe665d945a9b331180c2a2f7
+  CapacitorCommunityTapJacking: c2e6b8be4a3fc96076bf8f2c9e5da6d31daa6857
   CapacitorCordova: e825fce1a2e14e4b5730641c7e098dccf74397b7
   CapacitorHaptics: 7c7c206f0c96a628fed073830c96d28c4b2e772e
   CapacitorKeyboard: aec619a578235c6ce279075009a2689c2cf5c42c
